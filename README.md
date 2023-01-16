@@ -3,7 +3,7 @@ CRUD Operation using React and NestJs APi
 
 This is frontend that performs Create-Read-Update_Delete(CRUD) operations. To use the APP do the following 
 
-CLone the repository by typing on terminal or cmd
+CLone the repository by typing (https://github.com/bewketugirma/React-CRUD-Operation-using-NestJ-APIs.git) on terminal or cmd
 
 To run the application
 
