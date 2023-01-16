@@ -1,4 +1,4 @@
-# React-CRUD-Operation-using-NestJ-APIs
+# React-CRUD-Operation-using-NestJs-APIs
 CRUD Operation using React and NestJs APi
 
 This is frontend that performs Create-Read-Update_Delete(CRUD) operations. To use the APP do the following 
