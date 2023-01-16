@@ -11,7 +11,7 @@ Open cmd and navigate to the root folder of the project -> type npm start to sta
 
 To run the Backend
 
-CLone the NestJs-CRUD-API repository by typing on terminal or cmd
+CLone the NestJs-CRUD-API repository by typing (https://github.com/bewketugirma/NestJs-CRUD-API.git) on terminal or cmd
 
 Install and configure MySql or PostgreSQL database based on the Configuration in the NestJs-CRUD-API repository()
 
